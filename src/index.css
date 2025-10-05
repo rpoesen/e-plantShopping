@@ -1,0 +1,18 @@
+/* index.css - basic global styles */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f8f8f8;
+  color: #222;
+}
+
+button {
+  cursor: pointer;
+  outline: none;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
